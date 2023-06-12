@@ -1,0 +1,86 @@
+[
+{
+  "directory": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CMP143.dir/includes_CXX.rsp -g -o CMakeFiles\\CMP143.dir\\main.cpp.obj -c C:\\Users\\pablo\\OneDrive\\Desktop\\trab\\TS_INF01009-CMP143222\\CMP143\\main.cpp",
+  "file": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/main.cpp",
+  "output": "CMakeFiles/CMP143.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/CMP143.dir/includes_C.rsp -g -o CMakeFiles\\CMP143.dir\\lib\\gl3w.c.obj -c C:\\Users\\pablo\\OneDrive\\Desktop\\trab\\TS_INF01009-CMP143222\\CMP143\\lib\\gl3w.c",
+  "file": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/lib/gl3w.c",
+  "output": "CMakeFiles/CMP143.dir/lib/gl3w.c.obj"
+},
+{
+  "directory": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/build/lib/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\context.c.obj -c C:\\Users\\pablo\\OneDrive\\Desktop\\trab\\TS_INF01009-CMP143222\\CMP143\\lib\\glfw\\src\\context.c",
+  "file": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/lib/glfw/src/context.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/context.c.obj"
+},
+{
+  "directory": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/build/lib/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\init.c.obj -c C:\\Users\\pablo\\OneDrive\\Desktop\\trab\\TS_INF01009-CMP143222\\CMP143\\lib\\glfw\\src\\init.c",
+  "file": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/lib/glfw/src/init.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/init.c.obj"
+},
+{
+  "directory": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/build/lib/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\input.c.obj -c C:\\Users\\pablo\\OneDrive\\Desktop\\trab\\TS_INF01009-CMP143222\\CMP143\\lib\\glfw\\src\\input.c",
+  "file": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/lib/glfw/src/input.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/input.c.obj"
+},
+{
+  "directory": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/build/lib/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\monitor.c.obj -c C:\\Users\\pablo\\OneDrive\\Desktop\\trab\\TS_INF01009-CMP143222\\CMP143\\lib\\glfw\\src\\monitor.c",
+  "file": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/lib/glfw/src/monitor.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj"
+},
+{
+  "directory": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/build/lib/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\window.c.obj -c C:\\Users\\pablo\\OneDrive\\Desktop\\trab\\TS_INF01009-CMP143222\\CMP143\\lib\\glfw\\src\\window.c",
+  "file": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/lib/glfw/src/window.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/window.c.obj"
+},
+{
+  "directory": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/build/lib/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\win32_init.c.obj -c C:\\Users\\pablo\\OneDrive\\Desktop\\trab\\TS_INF01009-CMP143222\\CMP143\\lib\\glfw\\src\\win32_init.c",
+  "file": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/lib/glfw/src/win32_init.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj"
+},
+{
+  "directory": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/build/lib/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c C:\\Users\\pablo\\OneDrive\\Desktop\\trab\\TS_INF01009-CMP143222\\CMP143\\lib\\glfw\\src\\win32_monitor.c",
+  "file": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/lib/glfw/src/win32_monitor.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/build/lib/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\win32_time.c.obj -c C:\\Users\\pablo\\OneDrive\\Desktop\\trab\\TS_INF01009-CMP143222\\CMP143\\lib\\glfw\\src\\win32_time.c",
+  "file": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/lib/glfw/src/win32_time.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj"
+},
+{
+  "directory": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/build/lib/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\win32_tls.c.obj -c C:\\Users\\pablo\\OneDrive\\Desktop\\trab\\TS_INF01009-CMP143222\\CMP143\\lib\\glfw\\src\\win32_tls.c",
+  "file": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/lib/glfw/src/win32_tls.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/win32_tls.c.obj"
+},
+{
+  "directory": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/build/lib/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\win32_window.c.obj -c C:\\Users\\pablo\\OneDrive\\Desktop\\trab\\TS_INF01009-CMP143222\\CMP143\\lib\\glfw\\src\\win32_window.c",
+  "file": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/lib/glfw/src/win32_window.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj"
+},
+{
+  "directory": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/build/lib/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\winmm_joystick.c.obj -c C:\\Users\\pablo\\OneDrive\\Desktop\\trab\\TS_INF01009-CMP143222\\CMP143\\lib\\glfw\\src\\winmm_joystick.c",
+  "file": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/lib/glfw/src/winmm_joystick.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/winmm_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/build/lib/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\wgl_context.c.obj -c C:\\Users\\pablo\\OneDrive\\Desktop\\trab\\TS_INF01009-CMP143222\\CMP143\\lib\\glfw\\src\\wgl_context.c",
+  "file": "C:/Users/pablo/OneDrive/Desktop/trab/TS_INF01009-CMP143222/CMP143/lib/glfw/src/wgl_context.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj"
+}
+]
